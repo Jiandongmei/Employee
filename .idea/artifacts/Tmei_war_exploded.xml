@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Tmei:war exploded">
+    <output-path>$PROJECT_DIR$/../Meimei/out/artifacts/Tmei_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Tmei/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Tmei" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
